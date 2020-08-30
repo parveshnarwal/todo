@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.completed{
+    text-decoration-style: wavy;
+    font-style: italic;
+    text-decoration: line-through;
+}
